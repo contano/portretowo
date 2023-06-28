@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://portretowo.contano.xyz/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://portretowo.contano.xyz/</loc>
+</url>
+<url>
+<loc>https://portretowo.contano.xyz/dzieciaki.html</loc>
+<lastmod>2023-06-28T17:42:46+02:00</lastmod>
+<image:image>
+<image:loc>https://portretowo.contano.xyz/media/posts/12/Tymonek.jpg</image:loc>
+<image:title><![CDATA[dzieciaki - portretowe sesje zdjęciowe]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://portretowo.contano.xyz/dziewczyny-w-czerni-i-bieli.html</loc>
+<lastmod>2023-06-28T16:37:36+02:00</lastmod>
+<image:image>
+<image:loc>https://portretowo.contano.xyz/media/posts/11/Marta.jpg</image:loc>
+<image:title><![CDATA[dziewczyny - portretowe sesje zdjęciowe]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://portretowo.contano.xyz/dziewczyny.html</loc>
+<lastmod>2023-06-28T23:00:25+02:00</lastmod>
+<image:image>
+<image:loc>https://portretowo.contano.xyz/media/posts/14/dziewczyny.jpg</image:loc>
+<image:title><![CDATA[dziewczyny - portretowe sesje zdjęciowe]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://portretowo.contano.xyz/portretowe-sesje-zdjeciowe.html</loc>
+<lastmod>2023-06-24T11:18:41+02:00</lastmod>
+<image:image>
+<image:loc>https://portretowo.contano.xyz/media/posts/10/sesje-zdjeciowe.jpg</image:loc>
+<image:title><![CDATA[portretowe sesje zdjęciowe]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://portretowo.contano.xyz/slub-ariany-i-bartka.html</loc>
+<lastmod>2023-06-28T21:08:48+02:00</lastmod>
+<image:image>
+<image:loc>https://portretowo.contano.xyz/media/posts/13/slub-ariany-i-bartka.jpg</image:loc>
+<image:title><![CDATA[Ślub Ariany i Bartka - zdjęcia ze ślubu i wesela]]></image:title>
+</image:image>
+</url>
+</urlset>
