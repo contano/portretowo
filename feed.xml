@@ -3,12 +3,111 @@
     <title>portretowo</title>
     <link href="https://portretowo.contano.xyz/feed.xml" rel="self" />
     <link href="https://portretowo.contano.xyz" />
-    <updated>2023-06-29T11:28:14+02:00</updated>
+    <updated>2023-06-30T13:22:19+02:00</updated>
     <author>
         <name>Jacek</name>
     </author>
     <id>https://portretowo.contano.xyz</id>
 
+    <entry>
+        <title>Sophie Maac</title>
+        <author>
+            <name>Jacek</name>
+        </author>
+        <link href="https://portretowo.contano.xyz/sophie-maac.html"/>
+        <id>https://portretowo.contano.xyz/sophie-maac.html</id>
+        <media:content url="https://portretowo.contano.xyz/media/posts/17/Sophie.jpg" medium="image" />
+            <category term="portretowe sesje zdjęciowe"/>
+
+        <updated>2023-06-30T13:22:19+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://portretowo.contano.xyz/media/posts/17/Sophie.jpg" class="type:primaryImage" alt="Sophie Maac - portretowa sesja zdjęciowa" /></p>
+                
+  <div  class="gallery-wrapper gallery-wrapper--full">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie1.jpg" data-size="2047x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie1-thumbnail.jpg" height="768" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie2.jpg" data-size="1366x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie2-thumbnail.jpg" height="1151" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie3.jpg" data-size="1366x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie3-thumbnail.jpg" height="1151" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie4.jpg" data-size="1365x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie4-thumbnail.jpg" height="1152" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie5.jpg" data-size="1366x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie5-thumbnail.jpg" height="1151" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie6.jpg" data-size="1638x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie6-thumbnail.jpg" height="960" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie7.jpg" data-size="1365x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie7-thumbnail.jpg" height="1152" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie8.jpg" data-size="2048x1365">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie8-thumbnail.jpg" height="512" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie9.jpg" data-size="1365x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie9-thumbnail.jpg" height="1152" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie10.jpg" data-size="1365x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie10-thumbnail.jpg" height="1152" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie11.jpg" data-size="2048x1365">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie11-thumbnail.jpg" height="512" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie12.jpg" data-size="2048x1365">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie12-thumbnail.jpg" height="512" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie13.jpg" data-size="2048x1365">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie13-thumbnail.jpg" height="512" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie14.jpg" data-size="1365x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie14-thumbnail.jpg" height="1152" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie15.jpg" data-size="1365x2048">
+        <img loading="lazy" src="https://portretowo.contano.xyz/media/posts/17/gallery/Sophie15-thumbnail.jpg" height="1152" width="768" alt="Sophie Maac - portretowa sesja zdjęciowa" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Monika w kolorach złotej jesieni</title>
         <author>
